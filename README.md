@@ -1,2 +1,3 @@
-# package-lokfor-1.0.3
-1"Makes it easy for you to find files and folders, whatever they are, and whatever you write, enjoy by me Tuan-Muda
+# 🔍 LOK-FOR (You LOKOR?) - The Ultimate Searcher "LOKFOR" s a powerful command-line interface (CLI) 
+designed to search for files, folders, and text within any directory. Powered by The Silver Searcher (ag), searches are lightning fast and precise. ## ✨ Key Features - Physical & Spiritual: Searches for file/folder names and their text contents. - Multidimensional: Searches for `.iso`, `.zip`, and `.tar` files without extraction. - Timestamp: Displays the last modification time of the found file. - Absolute Path: Provides the complete file path from the root to the starting point. - Flexible Options: Select the search mode you need (File, Folder, or Text). ## 🚀 Installation ### 1. Prerequisites (Dependencies) Make 
+sure your system already has The Silver Searcher. - Termux: `pkg install silversearcher-ag unzip genisoimage` - Ubuntu/Debian: `sudo apt install silversearcher-ag unzip genisoimage` ### 2. Installing Packages Go to the project folder and run: ``` bash npm install -g .
